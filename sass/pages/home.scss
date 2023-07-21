@@ -1,0 +1,165 @@
+#navbar{
+   background: #1C1E53;
+   .navbar-header {
+      background: #1C1E53;
+   }
+}
+  
+   
+#building {
+   background: var(--tint-blue, #1C1E53);
+   .building-header {
+      width:100%;
+      .row{
+         .building-left-text {
+            color: var(--white, #FFF);
+            padding-top: 126px;
+            h1 {
+               font-size: 54px;
+               font-style: normal;
+               font-weight: 600;
+               line-height: 74px;
+            }
+            p {
+               font-size: 16px;
+               font-style: normal;
+               font-weight: 500;
+               line-height: 28px;
+            }
+         }
+         .button-text {
+            display: flex;
+            margin-bottom:128px;
+            button {
+               display: inline-flex;
+               margin-top: 48px;
+               // margin-bottom:128px;
+               padding: 16px 56px;
+               justify-content: center;
+               align-items: center;
+               border-radius: 41px;
+            }
+            h6 {
+               margin-top: 66px;
+               padding-left:40px;
+               color: var(--white, #FFF); 
+            }
+            img {
+               padding-top:48px;
+               padding-left:16px;
+            }
+         }
+            
+         .building-right {
+            padding-top: 164.23px;
+         }
+      }
+   }
+}
+#view {
+   .view-main-header{
+      .view-text {
+         display: flex;
+         justify-content: space-between;
+         h2 {
+            color: var(--dark-blue, #282938);
+            font-family: Poppins;
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 64px;
+            margin-top:57px;
+         }
+         .view-more {
+            display: flex;
+            gap:16px;
+            h6 {
+               color: #282938;
+               font-family: Poppins;
+               font-size: 16px;
+               font-style: normal;
+               font-weight: 500;
+               line-height: 28px;
+               margin-top:78px;
+            }
+            img {
+               margin-top:56px;
+            }
+         }
+      }
+      .grid__img {
+         padding-top:64px;
+         padding-bottom:128px;
+         row-gap:20px;
+         grid-gap:20px;
+         .grid__img__row {
+            .col-img {
+               img {
+                  padding-left:-200px;
+               }
+               width:570px;
+               height:600px;
+               background-image:url(../../images/teacher-woman.png);
+            }
+            .row-image1 {
+               img {
+                  // padding-left:200px;
+               }
+               width:400px;
+               height:284px;
+               background-image:url(../../images/run-your.png);
+            }
+            .row-image2 {
+               width:400px;
+               height:284px;
+               background-image:url(../../images/join-images.png);
+            }
+         }
+      }
+   }
+}
+   
+#features {
+   .text-center-grid {
+      background: var(--grey, #F4F6FC);
+      .text-main-middle {
+         .text-features {
+            h4 {
+               padding-top:128px;
+               color: var(--dark-blue, #282938);
+               text-align: center;
+               font-family: Poppins;
+               font-size: 16px;
+               font-style: normal;
+               font-weight: 500;
+               line-height: 28px;
+            }
+            h2 {
+               color: var(--dark-blue, #282938);
+               text-align: center;
+               font-family: Poppins;
+               font-size: 48px;
+               font-style: normal;
+               font-weight: 600;
+               line-height: 64px;
+            }
+         }
+         .col-general {
+            .col-general-grid {
+               row-gap:25px;
+               column-gap:25px;
+               .col-col-1 {
+                  width: 405px;
+                  height: 316px;
+                  background-color:rgba(255, 255, 255, 1);
+                  h4 {
+                     padding-top:108px;
+                  }
+               }
+   
+            }
+         }
+      }
+   }
+   
+}

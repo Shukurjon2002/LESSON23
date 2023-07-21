@@ -1,0 +1,229 @@
+#pricing {
+   .pricing-plans {
+      .pricing-text {
+         h2 {
+            padding-top:128px;
+            color: var(--dark-blue, #282938);
+            font-family: Poppins;
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 64px;
+         }
+         h6 {
+            color: var(--dark-blue, #282938);
+            text-align: center;
+            font-family: Poppins;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 28px;
+         }
+      }
+      .pricing-our-pricing {
+         gap:16px;
+         padding-top:64px;
+         .design-1 {
+            width: 406px;
+            height: 745px;
+            border-radius: 12px;
+            background: var(--grey, #F4F6FC);
+            .dollar {
+               display: flex;
+               gap:8px;
+               padding-left: 48px;
+               h3 {
+                  padding-top:64px;
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 38px;
+                  font-style: normal;
+                  font-weight: 600;
+                  line-height: 56px;
+               }
+               h6 {
+                  padding-top:78px;
+                  color: var(--royal-blue, #2405F2);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .design-text {
+               text-align: start;
+               padding-left: 48px;
+               h4 {
+                  padding-top:20px;
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 24px;
+                  font-style: normal;
+                  font-weight: 500;
+                  line-height: 36px;
+               }
+               p {
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 500;
+                  line-height: 28px;
+               }
+            }
+            .icon-1 {
+               display: flex;
+               padding-left: 48px;
+               padding-top:20px;
+               h6 {
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .icon-head {
+               padding-top:78px;
+            }
+         }
+         .design-2 {
+            width: 406px;
+            height: 745px;
+            border-radius: 12px;
+            background: #1C1E53;
+            .dollar {
+               display: flex;
+               gap:8px;
+               padding-left: 48px;
+               h3 {
+                  padding-top:64px;
+                  color: var(--white, #FFF);
+                  font-family: Poppins;
+                  font-size: 38px;
+                  font-style: normal;
+                  font-weight: 600;
+                  line-height: 56px;
+               }
+               h6 {
+                  padding-top:78px;
+                  color: var(--yellow, #FCD980);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .design-text {
+               text-align: start;
+               padding-left: 48px;
+               h4 {
+                  padding-top:20px;
+                  color: var(--white, #FFF);
+                  font-family: Poppins;
+                  font-size: 24px;
+                  font-style: normal;
+                  font-weight: 500;
+                  line-height: 36px;
+               }
+               p {
+                  color:rgba(255, 255, 255, 1);
+                  font-family: Poppins;
+                     font-size: 16px;
+                     font-style: normal;
+                     font-weight: 500;
+                     line-height: 28px;
+               }
+            }
+            .icon-1 {
+               display: flex;
+               padding-left: 48px;
+               padding-top:20px;
+               h6 {
+                  color: var(--white, #FFF);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .icon-head {
+               padding-top:78px;
+            }  
+         }
+         .design-3 {
+            width: 406px;
+            height: 745px;
+            border-radius: 12px;
+            background: var(--grey, #F4F6FC);
+            .dollar {
+               display: flex;
+               gap:8px;
+               padding-left: 48px;
+               h3 {
+                  padding-top:64px;
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 38px;
+                  font-style: normal;
+                  font-weight: 600;
+                  line-height: 56px;
+               }
+               h6 {
+                  padding-top:78px;
+                  color: var(--royal-blue, #2405F2);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .design-text {
+               text-align: start;
+               padding-left: 48px;
+               h4 {
+                  padding-top:20px;
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 24px;
+                  font-style: normal;
+                  font-weight: 500;
+                  line-height: 36px;
+               }
+               p {
+                  h6 {
+                     padding-bottom:78px;
+                     color: var(--dark-blue, #282938);
+                     font-family: Poppins;
+                     font-size: 16px;
+                     font-style: normal;
+                     font-weight: 500;
+                     line-height: 28px;
+                  } 
+               }
+            }
+            .icon-1 {
+               display: flex;
+               padding-left: 48px;
+               padding-top:20px;
+               h6 {
+                  color: var(--dark-blue, #282938);
+                  font-family: Poppins;
+                  font-size: 16px;
+                  font-style: normal;
+                  font-weight: 400;
+                  line-height: 28px;
+               }
+            }
+            .icon-head {
+               padding-top:78px;
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,136 @@
+#building {
+  background: var(--tint-blue, #1C1E53);
+}
+#building .building-header {
+  width: 100%;
+}
+#building .building-header .row .building-left-text {
+  color: var(--white, #FFF);
+  padding-top: 126px;
+}
+#building .building-header .row .building-left-text h1 {
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 74px;
+}
+#building .building-header .row .building-left-text p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+#building .building-header .row .button-text {
+  display: flex;
+  margin-bottom: 128px;
+}
+#building .building-header .row .button-text button {
+  display: inline-flex;
+  margin-top: 48px;
+  padding: 16px 56px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 41px;
+}
+#building .building-header .row .button-text h6 {
+  margin-top: 66px;
+  padding-left: 40px;
+  color: var(--white, #FFF);
+}
+#building .building-header .row .button-text img {
+  padding-top: 48px;
+  padding-left: 16px;
+}
+#building .building-header .row .building-right {
+  padding-top: 164.23px;
+}
+
+#view .view-main-header .view-text {
+  display: flex;
+  justify-content: space-between;
+}
+#view .view-main-header .view-text h2 {
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+  margin-top: 57px;
+}
+#view .view-main-header .view-text .view-more {
+  display: flex;
+  gap: 16px;
+}
+#view .view-main-header .view-text .view-more h6 {
+  color: #282938;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  margin-top: 78px;
+}
+#view .view-main-header .view-text .view-more img {
+  margin-top: 56px;
+}
+#view .view-main-header .grid__img {
+  padding-top: 64px;
+  padding-bottom: 128px;
+  row-gap: 20px;
+  grid-gap: 20px;
+}
+#view .view-main-header .grid__img .grid__img__row .col-img {
+  width: 570px;
+  height: 600px;
+  background-image: url(../../images/teacher-woman.png);
+}
+#view .view-main-header .grid__img .grid__img__row .col-img img {
+  padding-left: -200px;
+}
+#view .view-main-header .grid__img .grid__img__row .row-image1 {
+  width: 400px;
+  height: 284px;
+  background-image: url(../../images/run-your.png);
+}
+#view .view-main-header .grid__img .grid__img__row .row-image2 {
+  width: 400px;
+  height: 284px;
+  background-image: url(../../images/join-images.png);
+}
+
+#features .text-center-grid {
+  background: var(--grey, #F4F6FC);
+}
+#features .text-center-grid .text-main-middle .text-features h4 {
+  padding-top: 128px;
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+#features .text-center-grid .text-main-middle .text-features h2 {
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+#features .text-center-grid .text-main-middle .col-general .col-general-grid {
+  row-gap: 25px;
+  -moz-column-gap: 25px;
+       column-gap: 25px;
+}
+#features .text-center-grid .text-main-middle .col-general .col-general-grid .col-col-1 {
+  width: 405px;
+  height: 316px;
+  background-color: rgb(255, 255, 255);
+}
+#features .text-center-grid .text-main-middle .col-general .col-general-grid .col-col-1 h4 {
+  padding-top: 108px;
+}

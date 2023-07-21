@@ -1,0 +1,279 @@
+#work {
+  background: var(--grey, #F4F6FC);
+}
+#work .what-work .what-work-header {
+  text-align: center;
+}
+#work .what-work .what-work-header h6 {
+  padding-top: 96px;
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+#work .what-work .what-work-header h2 {
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+#work .what-work .what-work-header p {
+  padding-top: 24px;
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+#work .what-work .what-work-footer {
+  padding-top: 32px;
+  padding-left: 1010px;
+  gap: 100px;
+}
+#work .what-work .what-work-footer img {
+  padding-left: 35px;
+  padding-bottom: 96px;
+}
+
+#work-main .work-main-template .work-main-header {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  padding-top: 96px;
+}
+#work-main .work-main-template .work-main-header h6 {
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+#work-main .template .template-header {
+  padding-bottom: 128px;
+}
+#work-main .template .template-header .template-1 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-1 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-1 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-1 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+#work-main .template .template-header .template-2 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-2 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-2 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-2 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+#work-main .template .template-header .template-3 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-3 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-3 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-3 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+#work-main .template .template-header .template-4 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-4 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-4 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-4 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+#work-main .template .template-header .template-5 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-5 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-5 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-5 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+#work-main .template .template-header .template-6 .images {
+  display: flex;
+  width: 623px;
+  padding: 30px 39px 33px 39px;
+  justify-content: center;
+  align-items: center;
+}
+#work-main .template .template-header .template-6 h3 {
+  text-align: start;
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#work-main .template .template-header .template-6 p {
+  padding-left: 36px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#work-main .template .template-header .template-6 .template-footer {
+  display: flex;
+  padding-left: 36px;
+  gap: 16px;
+}
+
+#work-footer .work-footer-text {
+  align-content: center;
+}
+#work-footer .work-footer-text h2 {
+  padding-top: 128px;
+  text-align: start;
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+#work-footer .work-footer-text p {
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  padding-bottom: 144px;
+}

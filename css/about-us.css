@@ -1,0 +1,95 @@
+#about-us .about-us-const .about-header .about-row .about-left .about-left-text h4 {
+  padding-top: 152px;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+#about-us .about-us-const .about-header .about-row .about-left .about-left-text h1 {
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 74px;
+}
+#about-us .about-us-const .about-header .about-row .about-left .about-left-text p {
+  padding-top: 20px;
+  color: var(--dark-blue, #282938);
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+#about-us .about-us-const .about-header .about-right {
+  padding-top: 128px;
+}
+
+#about-middle .about-middle-goal .goal-middle-focus {
+  padding-top: 126.95px;
+  padding-bottom: 128px;
+}
+#about-middle .about-middle-goal .goal-middle-focus .col-heading-text {
+  display: flex;
+  background-color: rgb(244, 245, 245);
+  justify-content: space-around;
+}
+#about-middle .about-middle-goal .goal-middle-focus .col-heading-text h3 {
+  padding-top: 96px;
+  text-align: start;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+}
+#about-middle .about-middle-goal .goal-middle-focus .col-heading-text p {
+  padding-bottom: 96px;
+  text-align: start;
+  color: var(--dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.6999999881;
+}
+#about-middle .about-middle-goal .goal-middle-focus .col-heading-img img {
+  width: 1308px;
+  padding-left: -10px;
+}
+
+#about-footer {
+  background: var(--grey, #F4F6FC);
+}
+#about-footer .about-footer-meet h2 {
+  padding-top: 128px;
+  color: var(--dark-blue, #282938);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px;
+}
+#about-footer .about-footer-meet .meet-team {
+  padding-top: 48px;
+  padding-bottom: 128px;
+  -moz-column-gap: 24px;
+       column-gap: 24px;
+}
+#about-footer .about-footer-meet .meet-team .meet-images {
+  width: 310px;
+  background-color: rgb(255, 255, 255);
+}
+#about-footer .about-footer-meet .meet-team .meet-images img {
+  padding-top: 48px;
+}
+#about-footer .about-footer-meet .meet-team .meet-images h6 {
+  padding-bottom: 32px;
+}
